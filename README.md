@@ -1,3 +1,6 @@
+![latest 10](https://img.shields.io/badge/latest-10-green.svg?style=flat)
+![node 10](https://img.shields.io/badge/node-10-brightgreen.svg) ![License MIT](https://img.shields.io/badge/license-MIT-blue.svg) [![Build Status](https://travis-ci.org/Pipekung/node-oracle.svg?branch=master)](https://travis-ci.org/Pipekung/node-oracle) [![](https://img.shields.io/docker/stars/pipekung/node-oracle.svg)](https://hub.docker.com/r/pipekung/node-oracle 'DockerHub') [![](https://img.shields.io/docker/pulls/pipekung/node-oracle.svg)](https://hub.docker.com/r/pipekung/node-oracle 'DockerHub')
+
 # Supported tags
 
 - 10
@@ -35,4 +38,4 @@ $ docker-compose up -d
 
 # Reference
 
-# License
+- [node official](https://hub.docker.com/_/node)
