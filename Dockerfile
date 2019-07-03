@@ -1,6 +1,6 @@
 FROM node:10-slim
 
-LABEL maintainer="Channarong Janpanich cj.pipekung@gmail.com"
+LABEL maintainer="Channarong Janpanich <cj.pipekung@gmail.com>"
 
 ADD ./oracle/*.zip ./
 
