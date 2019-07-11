@@ -10,7 +10,7 @@
 ## Using docker run
 
 ```console
-$ docker run -it --rm -p 9000:9000 -e NODE_ENV=production -v ./:/app -w /app pipekung/node-oracle node app.js
+$ docker run -it --rm -p 9000:9000 -e NODE_ENV=production -v /path/to/your/project:/app -w /app pipekung/node-oracle node app.js
 ```
 
 ## Using docker-compose
@@ -24,7 +24,7 @@ services:
     environment:
       - NODE_ENV=production
     volumes:
-      - ./:/app
+      - /path/to/your/project:/app
     ports:
       - 9000:9000
     command: node app.js
