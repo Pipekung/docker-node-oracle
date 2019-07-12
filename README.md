@@ -3,7 +3,7 @@
 
 # Supported tags
 
-- [```12```, ```node12-oci19```](https://github.com/Pipekung/docker-node-oracle/blob/master/Dockerfile)
+- [```12```, ```node12-oci19```, ```latest```](https://github.com/Pipekung/docker-node-oracle/blob/master/Dockerfile)
 - [```10```, ```node10-oci19```](https://github.com/Pipekung/docker-node-oracle/blob/master/mainline/node10-oci19/Dockerfile)
 
 # How to use this image
